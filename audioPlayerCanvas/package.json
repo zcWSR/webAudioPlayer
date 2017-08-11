@@ -1,0 +1,12 @@
+{
+  "name": "audio_player",
+  "version": "1.0.0",
+  "description": "一个简单的web音乐播放器，使用webAudioAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch"
+  },
+  "author": "zcWSR",
+  "license": "ISC"
+}

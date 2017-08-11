@@ -1,0 +1,11 @@
+{
+    "musics": [
+        {"name": "96猫 - 嘘の火花", "url": "/music/96猫 - 嘘の火花.mp3"},
+        {"name": "柴田淳 - 東京", "url": "/music/柴田淳 - 東京.mp3"},
+        {"name": "柴田淳 - 秋桜", "url": "/music/柴田淳 - 秋桜.mp3"},
+        {"name": "目黒将司 - Wake Up,Get Up,Get Out There", "url": "/music/目黒将司 - Wake Up,Get Up,Get Out There.mp3"},
+        {"name": "Elsa Kopf - Larmes de caramel", "url": "/music/Elsa Kopf - Larmes de caramel.mp3"},
+        {"name": "Feint,Veela - Vagrant", "url": "/music/Feint,Veela - Vagrant.mp3"},
+        {"name": "mpegasus - Homespace", "url": "/music/mpegasus - Homespace.mp3"}
+    ]
+}

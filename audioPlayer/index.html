@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>audioPlayer</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <input id="playBtn" type="button" value="播放或暂停">  <input id="nextBtn" type="button" value="next"><br>
+    <input id="volumeSlider" type="range"><br>
+     加载进度
+    <div id="loadProcess" style="height: 20px; width: 0px; background: orangered;"></div><br>
+     播放进度
+    <div id="playProcess" style="height: 20px; width: 0px; background: red"></div><br>
+
+    <div id="view" id="player" class="player" >
+        <div id="avatar" class="avatar"></div>
+        <div id="pie" class="pie"></div>
+    </div>
+    
+
+    <div id="visualizer" class="visualizer"></div>
+</body>
+<script type="text/javascript" src="built/player.js"></script>
+
+</html>
